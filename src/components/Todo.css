@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300&display=swap');
+* {
+    list-style: none;
+    padding: 5px;
+}
+input {
+    text-align: center;
+    border-style: none;
+    border-radius: 2px;
+    padding: 6px 5rem;
+    margin-left: 3rem;
+}
+button {
+   border-style: none;
+   color: rgb(112, 112, 112);
+   border-radius: 4px;
+   padding: 10px;
+}
+.add {
+    margin-left: 3rem;
+}
+.delete{
+background-color: rgb(247, 184, 247);
+font-size: 15px;
+padding: 0;
+margin-left: 10px;
+}
